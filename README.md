@@ -48,3 +48,7 @@ Subscription-based	No
 Lines (approximately)	[Aproximadamente 400+ líneas, ajusta si tienes el número exacto]
 Requirements	QBCore, oxmysql, origen_police
 Support	Sí
+
+
+
+#fivem #gtav
